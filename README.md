@@ -28,7 +28,7 @@
 <br>
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unity](https://img.shields.io/badge/godot-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-%23000000.svg?style=for-the-badge&logo=godot&logoColor=white)
 <br>
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
